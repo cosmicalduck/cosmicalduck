@@ -2,7 +2,7 @@
 
 `Digital Craftsduck (Developer/Creator)`
 
-![pato](https://user-images.githubusercontent.com/43730688/233538250-feb9fded-e24a-4b87-a6ad-2310ca6e541f.gif)
+![pato](https://user-images.githubusercontent.com/43730688/233724364-31bf6f7f-c416-437b-b9ed-088700f491d6.gif)
 
 
 Hi! I'm Pato. I'm a computer science engineer who loves developing web and mobile applications. I love learning new things and putting them into practice!
